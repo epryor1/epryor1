@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Emily 
 
-<!--
-**epryor1/epryor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated software engineer with expertise in RPG and Java 
+development on the IBM iSeries platform.
+With a strong background in DB2 SQL, I specialize in building 
+robust business applications and maintaining legacy systems. 
+My work focuses on optimizing performance and ensuring 
+reliability in mission-critical environments.
 
-Here are some ideas to get you started:
+### My Current Tech Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 **Languages**: RPG (RPGLE, SQLRPGLE), Java, CL
+🌻 **Databases**: DB2 for i
+🌷 **Platforms**: IBM i (AS/400), iSeries
+🌼 **Tools & Frameworks**: RDi (Rational Developer for i), SQL, Eclipse, Git
+
+### Current Projects
+
+✨ A personal library catalog app in Swift [https://github.com/epryor1/ex-libris]
+⭐️ A tappy game app in Swift 
+✨ I am learning cybersecurity at my job and on the side as well, 
+   as I'm highly interested in securing systems and protecting sensitive 
+   information and data.
+
+a few of my favorite things: coffee, books, taylor swift, 
+ and constantly learning new things!

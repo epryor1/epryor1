@@ -9,18 +9,18 @@ reliability in mission-critical environments.
 
 ### My Current Tech Stack 
 
-🌸 **Languages**: RPG (RPGLE, SQLRPGLE), Java, CL
-🌻 **Databases**: DB2 for i
-🌷 **Platforms**: IBM i (AS/400), iSeries
-🌼 **Tools & Frameworks**: RDi (Rational Developer for i), SQL, Eclipse, Git
+🌸 **Languages**: RPG (RPGLE, SQLRPGLE), Java, CL <br/>
+🌻 **Databases**: DB2 for i <br/>
+🌷 **Platforms**: IBM i (AS/400), iSeries <br/>
+🌼 **Tools & Frameworks**: RDi (Rational Developer for i), SQL, Eclipse, Git <br/>
 
 ### Current Projects
 
-✨ A personal library catalog app in Swift [https://github.com/epryor1/ex-libris]
-⭐️ A tappy game app in Swift 
+✨ A personal library catalog app in Swift [https://github.com/epryor1/ex-libris] <br/>
+⭐️ A tappy game app in Swift <br/>
 ✨ I am learning cybersecurity at my job and on the side as well, 
    as I'm highly interested in securing systems and protecting sensitive 
-   information and data.
+   information and data.<br/>
 
 a few of my favorite things: coffee, books, taylor swift, 
  and constantly learning new things!

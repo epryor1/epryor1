@@ -10,7 +10,7 @@ reliability in mission-critical environments.
 ### My Current Tech Stack 
 
 🌸 **Languages**: RPG (RPGLE, SQLRPGLE), Java, CL <br/>
-🌻 **Databases**: DB2 for i <br/>
+🌻 **Databases**: DB2 for i, SQLite <br/>
 🌷 **Platforms**: IBM i (AS/400), iSeries <br/>
 🌼 **Tools & Frameworks**: RDi (Rational Developer for i), SQL, Eclipse, Git <br/>
 

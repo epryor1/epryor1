@@ -17,10 +17,9 @@ reliability in mission-critical environments.
 ### Current Projects
 
 ✨ A personal library catalog app in Swift [https://github.com/epryor1/ex-libris] <br/>
-⭐️ A tappy game app in Swift <br/>
+
 ✨ I am learning cybersecurity on the job and on the side as well, through various projects, 
       as I'm highly interested in securing systems and protecting sensitive 
       information and data.<br/>
 
-   a few of my favorite things: coffee, books, taylor swift, 
-     and constantly learning new things!
+
